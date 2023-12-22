@@ -1,8 +1,11 @@
 # Springboard Data Analytics Capstone Project:  Walmart Sales Driver Analysis
 Capstone project for Springboard Data Analytics Certification Program.
 
-<b> Summary of Assignment Structure </b> <br>
-This capstone project was meant to be a showcase of various technical skills, analytical techniques, and presentation capabilities.  Assignment consisted of three primary steps.
+<b> Summary of Assignment Structure </b> 
+<br>
+This capstone project is a showcase of various technical skills, presentation capabilities, and analytical techniques learned through the course.
+
+The assignment consisted of three primary steps.
 1. Locate data source
 2. Prepare and analyze data
 3. Present analysis
