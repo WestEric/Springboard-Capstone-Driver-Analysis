@@ -19,7 +19,7 @@ SAHU, A. K. (2023, April). Walmart Data Analysis and Forecasting. Kaggle. https:
 <summary> Presentations </summary>
   <b>Mock Internal Presentation</b><br>
   A mock-internal presentation with intended auidence of other data analysts.  Presentation of process and prospective visualizations constructed and presented with PowerPoint.<br>
-  <u>Presentation Link</u>: <i>link coming soon</i><br>
+  <u>Presentation Link</u>: https://1drv.ms/p/s!AsejcA5eFBxZg1gLxhHWGe4ix9Mc?e=y3PC8e <br>
   <br>
   <b>Mock External Presentation</b><br>
   Final visualizations and resulting key findings, insights, and recommendations constructed and presented in Tableau. <br>
